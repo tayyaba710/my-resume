@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Tayyaba Kouser S",
+    "occupation": "Software Developer",
+    "description": "Developing and designing softwares for business solution.",
+    "image": "me.jpeg",
+    "email": "tayyabakouser710@gmail.com",
+    "phone": "+91-7337636115",
+    "address": {
+      "street": "Gayathri Temple Road, ",
+      "city": "Bangalore, ",
+      "state": "Karnataka",
+      "zip": "(560022)"
+    },
+    "website": "https://tayyabakouser.info/",
+    "resumedownload": "https://drive.google.com/open?id=1CPtAEJDOUXa0cz0vvafrtTVx8JLzIpqT",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tayyaba.kouser.509",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tayyaba-kouser-45a63417a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tayyaba710",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Developing and designing softwares for business solutions",
+    "education": [
+      {
+        "College": "University Visvesvaraya College of Engineering",
+        "degree": "Master's in Web Technologies",
+        "graduated": "july 2020"
+      },
+      {
+        "College": "SJM institute of Technology",
+        "degree": "Bachelor of Engineering in Computer Science ",
+        "graduated": "March 2017"
+      }
+    ],
+    "work": [
+      {
+        "company": "Findin1",
+        "title": "Software Developer ",
+        "years": "March 2019 - Present",
+        "description": "Developing updates by using php, Assisting in the framework design by using Laravel and CogeIgniter and developing customized e-commerce solutions based on magento."
+      },
+      {
+        "company": "iObrain",
+        "title": "Technical Trainer",
+        "years": "October 2018 - January  2019",
+        "description": "Delivered Hands-on technical training on python, Arduino and raspberry pi, Prepare training material and classroom agenda and Prepare and conduct technical training programs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Php",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      },
+      {
+        "name": "Laravel2",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mobile Repair  ",
+        "category": "It’s a platform to sell or raise a repair request for your mobile.        ",
+        "image": "fury-fighting-gear.png",
+        "url": " https://www.mobnlap.in"
+      },
+      {
+        "title": "Online Exam",
+        "category": "The project was a content management application (CMA), To Test users Knowledge.",
+        "image": "canadian-wanderlust.png",
+        "url": "http://ebraint.com/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website1.jpg",
+        "url": "https://tayyabakouser.info/"
+      }
+    ]
+  }
+}
